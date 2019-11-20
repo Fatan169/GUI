@@ -3,7 +3,7 @@
 # HasilSatu
 ![AltText](https://github.com/Fatan169/GUI/blob/master/Screenshot%2011_20_2019%209_52_57%20PM.png "Hasil Satu")
 # HasilDua
-![AltText](https://github.com/Fatan169/GUI/blob/master/Screenshot%2011_20_2019%209_53_21%20PM.png"Hasil Dua")
+![AltText](https://github.com/Fatan169/GUI/blob/master/Screenshot%2011_20_2019%209_53_21%20PM.png "Hasil Dua")
 # HasilTiga
 ![AltText](https://github.com/Fatan169/GUI/blob/master/Screenshot%2011_20_2019%209_53_41%20PM.png "Hasil Tiga")
 # HasilEmpat
